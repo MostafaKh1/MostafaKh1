@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Khaled</h1>
 <h3 align="center">frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [furniture-ecommerce](https://github.com/MostafaKh1/ecommerce-website)
+- 🔭 I’m currently working on [furniture-ecommerce](https://github.com/MostafaKh1/furniture-ecommerce)
 
 - 📫 How to reach me **mostafakkh32@gmail.com**
 
