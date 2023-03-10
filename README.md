@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **mostafakkh32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zKdO9fxEPjDaTIR0CZO2olRgEUXAq1GN/view?usp=share_link](https://drive.google.com/file/d/1zKdO9fxEPjDaTIR0CZO2olRgEUXAq1GN/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
