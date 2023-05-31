@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Khaled</h1>
-<h3 align="center">frontend developer </h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on [furniture-ecommerce](https://github.com/MostafaKh1/furniture-ecommerce)
 
