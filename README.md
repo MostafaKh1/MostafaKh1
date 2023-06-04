@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafakh1&show_icons=true&locale=en&layout=compact" alt="mostafakh1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafakh1&show_icons=true&locale=en" alt="mostafakh1" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakh1&" alt="mostafakh1" /></p>
